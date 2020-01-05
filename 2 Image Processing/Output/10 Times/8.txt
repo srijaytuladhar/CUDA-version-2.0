@@ -1,0 +1,7 @@
+image dimensions 100x72
+
+Nanoseconds: 64660
+Seconds: 0.000064660
+Minutes: 0.0000
+Hours: 0.00
+

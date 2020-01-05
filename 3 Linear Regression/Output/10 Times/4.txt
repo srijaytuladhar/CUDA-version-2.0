@@ -1,0 +1,6 @@
+minimum m,c is 1.300000,35.840000 with error 10.171854
+Nanoseconds: 644803609
+Seconds: 0.644803609
+Minutes: 0.0107
+Hours: 0.00
+
